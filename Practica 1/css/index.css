@@ -1,0 +1,23 @@
+html{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+p{
+    text-align: justify;
+
+}
+
+.fondo-rojo{ 
+    background: #c51624;
+    
+
+}
+
+.fondo-negro{
+    color: black;
+    background-color: aqua;
+    
+
+}
+
+
+
